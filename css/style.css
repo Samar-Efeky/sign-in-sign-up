@@ -124,13 +124,13 @@
   }
   
   .social-icon:hover {
-    color: #A91D3A;
-    border-color: #A91D3A;
+    color: #1da9788d;
+    border-color: #1da950;
   }
   
   .btn {
     width: 150px;
-    background-color: #A91D3A;
+    background-color: #1da93e;
     border: none;
     outline: none;
     height: 49px;
@@ -144,7 +144,7 @@
   }
   
   .btn:hover {
-    background-color: #A91D3A;
+    background-color: #1da953;
   }
   .panels-container {
     position: absolute;
@@ -164,7 +164,7 @@
     top: -10%;
     right: 48%;
     transform: translateY(-50%);
-    background-image: linear-gradient(-45deg,#151515 40%, #A91D3A 70%);
+    background-image: linear-gradient(-45deg,#151515 40%, #1da9a0 70%);
     transition: 1.8s ease-in-out;
     border-radius: 50%;
     z-index: 6;
